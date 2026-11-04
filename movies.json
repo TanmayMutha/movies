@@ -70,5 +70,41 @@
     "watched_on": "2026-10-26",
     "my_rating": 7.0,
     "added_at": "2026-11-04T23:58:06"
+  },
+  {
+    "tmdb_id": 509,
+    "imdb_id": "tt0125439",
+    "title": "Notting Hill",
+    "original_title": "Notting Hill",
+    "year": 1999,
+    "release_date": "1999-05-21",
+    "runtime": 124,
+    "genres": [
+      "Romance",
+      "Comedy"
+    ],
+    "director": [
+      "Roger Michell"
+    ],
+    "cast": [
+      "Julia Roberts",
+      "Hugh Grant",
+      "Gina McKee",
+      "Tim McInnerny",
+      "Rhys Ifans",
+      "Emma Chambers"
+    ],
+    "tagline": "Can the most famous film star in the world fall for the man on the street?",
+    "overview": "London bookstore owner William Thacker's quiet life turns upside down when a chance encounter with famous actress Anna Scott sparks an unlikely romance challenged by their vastly different worlds.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.3,
+    "poster": "/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg",
+    "watched_on": "2025-12-05",
+    "my_rating": 6.0,
+    "added_at": "2026-11-05T00:02:20"
   }
 ]
