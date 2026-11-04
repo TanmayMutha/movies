@@ -32,5 +32,43 @@
     "watched_on": "2026-11-04",
     "my_rating": 7.5,
     "added_at": "2026-11-04T23:56:05"
+  },
+  {
+    "tmdb_id": 466272,
+    "imdb_id": "tt7131622",
+    "title": "Once Upon a Time... in Hollywood",
+    "original_title": "Once Upon a Time... in Hollywood",
+    "year": 2019,
+    "release_date": "2019-07-24",
+    "runtime": 162,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Margot Robbie",
+      "Emile Hirsch",
+      "Margaret Qualley",
+      "Timothy Olyphant"
+    ],
+    "tagline": "In this town, it can all change… Like that.",
+    "overview": "Los Angeles, 1969. TV star Rick Dalton, a struggling actor specializing in westerns, and stuntman Cliff Booth, his best friend, try to survive in a constantly changing movie industry. Dalton is the neighbor of the young and promising actress and model Sharon Tate, who has just married the prestigious Polish director Roman Polanski…",
+    "language": "en",
+    "countries": [
+      "China",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.4,
+    "poster": "/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg",
+    "watched_on": "2026-10-26",
+    "my_rating": 7.0,
+    "added_at": "2026-11-04T23:58:06"
   }
 ]
