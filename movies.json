@@ -72,6 +72,42 @@
     "added_at": "2026-11-04T23:58:06"
   },
   {
+    "tmdb_id": 550,
+    "imdb_id": "tt0137523",
+    "title": "Fight Club",
+    "original_title": "Fight Club",
+    "year": 1999,
+    "release_date": "1999-10-15",
+    "runtime": 139,
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "director": [
+      "David Fincher"
+    ],
+    "cast": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Helena Bonham Carter",
+      "Meat Loaf",
+      "Jared Leto",
+      "Zach Grenier"
+    ],
+    "tagline": "Mischief. Mayhem. Soap.",
+    "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+    "language": "en",
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.4,
+    "poster": "/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+    "watched_on": "2026-04-11",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T00:03:39"
+  },
+  {
     "tmdb_id": 509,
     "imdb_id": "tt0125439",
     "title": "Notting Hill",
