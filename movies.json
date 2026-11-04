@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "tmdb_id": 389,
+    "imdb_id": "tt0050083",
+    "title": "12 Angry Men",
+    "original_title": "12 Angry Men",
+    "year": 1957,
+    "release_date": "1957-04-10",
+    "runtime": 97,
+    "genres": [
+      "Drama"
+    ],
+    "director": [
+      "Sidney Lumet"
+    ],
+    "cast": [
+      "Martin Balsam",
+      "John Fiedler",
+      "Lee J. Cobb",
+      "E.G. Marshall",
+      "Jack Klugman",
+      "Edward Binns"
+    ],
+    "tagline": "It explodes like 12 sticks of dynamite!",
+    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.6,
+    "poster": "/zhG3vKWyDRaZYoaww1UVAi29T9h.jpg",
+    "watched_on": "2026-11-04",
+    "my_rating": 7.5,
+    "added_at": "2026-11-04T23:56:05"
+  }
+]
