@@ -108,6 +108,41 @@
     "added_at": "2026-11-05T00:03:39"
   },
   {
+    "tmdb_id": 640,
+    "imdb_id": "tt0264464",
+    "title": "Catch Me If You Can",
+    "original_title": "Catch Me If You Can",
+    "year": 2002,
+    "release_date": "2002-12-16",
+    "runtime": 141,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Tom Hanks",
+      "Christopher Walken",
+      "Martin Sheen",
+      "Nathalie Baye",
+      "Amy Adams"
+    ],
+    "tagline": "The true story of a real fake.",
+    "overview": "A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.0,
+    "poster": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+    "watched_on": "2026-01-10",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T00:07:29"
+  },
+  {
     "tmdb_id": 509,
     "imdb_id": "tt0125439",
     "title": "Notting Hill",
@@ -142,5 +177,76 @@
     "watched_on": "2025-12-05",
     "my_rating": 6.0,
     "added_at": "2026-11-05T00:02:20"
+  },
+  {
+    "tmdb_id": 278,
+    "imdb_id": "tt0111161",
+    "title": "The Shawshank Redemption",
+    "original_title": "The Shawshank Redemption",
+    "year": 1994,
+    "release_date": "1994-09-23",
+    "runtime": 142,
+    "genres": [
+      "Drama",
+      "Crime"
+    ],
+    "director": [
+      "Frank Darabont"
+    ],
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown",
+      "Gil Bellows"
+    ],
+    "tagline": "Fear can hold you prisoner. Hope can set you free.",
+    "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.7,
+    "poster": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+    "watched_on": "2025-05-11",
+    "my_rating": 8.5,
+    "added_at": "2026-11-05T00:05:28"
+  },
+  {
+    "tmdb_id": 13,
+    "imdb_id": "tt0109830",
+    "title": "Forrest Gump",
+    "original_title": "Forrest Gump",
+    "year": 1994,
+    "release_date": "1994-06-23",
+    "runtime": 142,
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "director": [
+      "Robert Zemeckis"
+    ],
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise",
+      "Sally Field",
+      "Mykelti Williamson",
+      "Michael Conner Humphreys"
+    ],
+    "tagline": "The world will never be the same once you've seen it through the eyes of Forrest Gump.",
+    "overview": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.5,
+    "poster": "/saHP97rTPS5eLmrLQEcANmKrsFl.jpg",
+    "watched_on": "2025-05-10",
+    "my_rating": 9.5,
+    "added_at": "2026-11-05T00:05:03"
   }
 ]
