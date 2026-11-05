@@ -359,6 +359,226 @@
     "added_at": "2026-11-05T00:02:20"
   },
   {
+    "tmdb_id": 51497,
+    "imdb_id": "tt1596343",
+    "title": "Fast Five",
+    "original_title": "Fast Five",
+    "year": 2011,
+    "release_date": "2011-04-20",
+    "runtime": 131,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "director": [
+      "Justin Lin"
+    ],
+    "cast": [
+      "Vin Diesel",
+      "Paul Walker",
+      "Jordana Brewster",
+      "Tyrese Gibson",
+      "Ludacris",
+      "Matt Schulze"
+    ],
+    "tagline": "Get the fifth gear.",
+    "overview": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.2,
+    "poster": "/gEfQjjQwY7fh5bI4GlG0RrBu7Pz.jpg",
+    "watched_on": "2025-11-30",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T11:13:57"
+  },
+  {
+    "tmdb_id": 13804,
+    "imdb_id": "tt1013752",
+    "title": "Fast & Furious",
+    "original_title": "Fast & Furious",
+    "year": 2009,
+    "release_date": "2009-04-02",
+    "runtime": 107,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": [
+      "Justin Lin"
+    ],
+    "cast": [
+      "Vin Diesel",
+      "Paul Walker",
+      "Michelle Rodriguez",
+      "Jordana Brewster",
+      "John Ortiz",
+      "Laz Alonso"
+    ],
+    "tagline": "New model. Original parts.",
+    "overview": "When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And the two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 6.7,
+    "poster": "/lUtVoRukW7WNtUySwd8hWlByBds.jpg",
+    "watched_on": "2025-11-22",
+    "my_rating": 7.0,
+    "added_at": "2026-11-05T11:13:33"
+  },
+  {
+    "tmdb_id": 9615,
+    "imdb_id": "tt0463985",
+    "title": "The Fast and the Furious: Tokyo Drift",
+    "original_title": "The Fast and the Furious: Tokyo Drift",
+    "year": 2006,
+    "release_date": "2006-06-03",
+    "runtime": 104,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": [
+      "Justin Lin"
+    ],
+    "cast": [
+      "Lucas Black",
+      "Nathalie Kelley",
+      "Sung Kang",
+      "Shad Moss",
+      "Brian Tee",
+      "Leonardo Nam"
+    ],
+    "tagline": "On the streets of Tokyo, speed needs no translation.",
+    "overview": "In order to avoid a jail sentence, Sean Boswell heads to Tokyo to live with his military father. In a low-rent section of the city, Sean gets caught up in the underground world of drift racing",
+    "language": "en",
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "tmdb_rating": 6.6,
+    "poster": "/46xqGOwHbh2TH2avWSw3SMXph4E.jpg",
+    "watched_on": "2025-11-18",
+    "my_rating": 8.5,
+    "added_at": "2026-11-05T11:10:38"
+  },
+  {
+    "tmdb_id": 584,
+    "imdb_id": "tt0322259",
+    "title": "2 Fast 2 Furious",
+    "original_title": "2 Fast 2 Furious",
+    "year": 2003,
+    "release_date": "2003-06-05",
+    "runtime": 108,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": [
+      "John Singleton"
+    ],
+    "cast": [
+      "Paul Walker",
+      "Tyrese Gibson",
+      "Eva Mendes",
+      "Cole Hauser",
+      "Ludacris",
+      "James Remar"
+    ],
+    "tagline": "How fast do you like it?",
+    "overview": "It's a major double-cross when former police officer Brian O'Conner teams up with his ex-con buddy Roman Pearce to transport a shipment of \"dirty\" money for shady Miami-based import-export dealer Carter Verone. But the guys are actually working with undercover agent Monica Fuentes to bring Verone down.",
+    "language": "en",
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "tmdb_rating": 6.5,
+    "poster": "/6nDZExrDKIXvSAghsFKVFRVJuSf.jpg",
+    "watched_on": "2025-11-08",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T11:10:12"
+  },
+  {
+    "tmdb_id": 9799,
+    "imdb_id": "tt0232500",
+    "title": "The Fast and the Furious",
+    "original_title": "The Fast and the Furious",
+    "year": 2001,
+    "release_date": "2001-06-22",
+    "runtime": 106,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": [
+      "Rob Cohen"
+    ],
+    "cast": [
+      "Paul Walker",
+      "Vin Diesel",
+      "Michelle Rodriguez",
+      "Jordana Brewster",
+      "Rick Yune",
+      "Chad Lindberg"
+    ],
+    "tagline": "If you have what it takes, you can have it all.",
+    "overview": "Dominic Toretto is a Los Angeles street racer suspected of masterminding a series of big-rig hijackings. When undercover cop Brian O'Conner infiltrates Toretto's iconoclastic crew, he falls for Toretto's sister and must choose a side: the gang or the LAPD.",
+    "language": "en",
+    "countries": [
+      "Germany",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.0,
+    "poster": "/gqY0ITBgT7A82poL9jv851qdnIb.jpg",
+    "watched_on": "2025-11-01",
+    "my_rating": 8.5,
+    "added_at": "2026-11-05T11:09:45"
+  },
+  {
+    "tmdb_id": 345,
+    "imdb_id": "tt0120663",
+    "title": "Eyes Wide Shut",
+    "original_title": "Eyes Wide Shut",
+    "year": 1999,
+    "release_date": "1999-07-16",
+    "runtime": 159,
+    "genres": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ],
+    "director": [
+      "Stanley Kubrick"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Nicole Kidman",
+      "Sydney Pollack",
+      "Marie Richardson",
+      "Rade Šerbedžija",
+      "Todd Field"
+    ],
+    "tagline": "No dream is ever just a dream.",
+    "overview": "After Dr. Bill Harford's wife, Alice, admits to having sexual fantasies about a man she met, Bill becomes obsessed with having a sexual encounter. He discovers an underground sexual group and attends one of their meetings -- and quickly discovers that he is in over his head.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.5,
+    "poster": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+    "watched_on": "2025-07-28",
+    "my_rating": 6.0,
+    "added_at": "2026-11-05T11:08:26"
+  },
+  {
     "tmdb_id": 278,
     "imdb_id": "tt0111161",
     "title": "The Shawshank Redemption",
@@ -934,6 +1154,41 @@
     "watched_on": "2023-07-26",
     "my_rating": 9.0,
     "added_at": "2026-11-05T10:45:41"
+  },
+  {
+    "tmdb_id": 353081,
+    "imdb_id": "tt4912910",
+    "title": "Mission: Impossible - Fallout",
+    "original_title": "Mission: Impossible - Fallout",
+    "year": 2018,
+    "release_date": "2018-07-25",
+    "runtime": 147,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "director": [
+      "Christopher McQuarrie"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Henry Cavill",
+      "Ving Rhames",
+      "Simon Pegg",
+      "Rebecca Ferguson",
+      "Sean Harris"
+    ],
+    "tagline": "Some missions are not a choice.",
+    "overview": "When an IMF mission ends badly, the world is faced with dire consequences. As Ethan Hunt takes it upon himself to fulfill his original briefing, the CIA begin to question his loyalty and his motives. The IMF team find themselves in a race against time, hunted by assassins while trying to prevent a global catastrophe.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.5,
+    "poster": "/AkJQpZp9WoNdj7pLYSj1L0RcMMN.jpg",
+    "watched_on": "2023-05-14",
+    "my_rating": 7.0,
+    "added_at": "2026-11-05T11:07:33"
   },
   {
     "tmdb_id": 157336,
