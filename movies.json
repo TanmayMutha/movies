@@ -219,6 +219,41 @@
     "added_at": "2026-11-05T10:43:08"
   },
   {
+    "tmdb_id": 11036,
+    "imdb_id": "tt0332280",
+    "title": "The Notebook",
+    "original_title": "The Notebook",
+    "year": 2004,
+    "release_date": "2004-06-25",
+    "runtime": 123,
+    "genres": [
+      "Romance",
+      "Drama"
+    ],
+    "director": [
+      "Nick Cassavetes"
+    ],
+    "cast": [
+      "Ryan Gosling",
+      "Rachel McAdams",
+      "Gena Rowlands",
+      "James Garner",
+      "Joan Allen",
+      "David Thornton"
+    ],
+    "tagline": "Behind every great love is a great story.",
+    "overview": "An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.9,
+    "poster": "/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg",
+    "watched_on": "2026-02-28",
+    "my_rating": 5.5,
+    "added_at": "2026-11-05T11:02:57"
+  },
+  {
     "tmdb_id": 640,
     "imdb_id": "tt0264464",
     "title": "Catch Me If You Can",
@@ -393,6 +428,42 @@
     "watched_on": "2025-05-10",
     "my_rating": 9.5,
     "added_at": "2026-11-05T00:05:03"
+  },
+  {
+    "tmdb_id": 106646,
+    "imdb_id": "tt0993846",
+    "title": "The Wolf of Wall Street",
+    "original_title": "The Wolf of Wall Street",
+    "year": 2013,
+    "release_date": "2013-12-25",
+    "runtime": 180,
+    "genres": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Jonah Hill",
+      "Margot Robbie",
+      "Matthew McConaughey",
+      "Kyle Chandler",
+      "Rob Reiner"
+    ],
+    "tagline": "Earn. Spend. Party.",
+    "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.0,
+    "poster": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+    "watched_on": "2024-12-15",
+    "my_rating": 9.0,
+    "added_at": "2026-11-05T10:56:40"
   },
   {
     "tmdb_id": 10625,
@@ -900,5 +971,222 @@
     "watched_on": "2022-10-05",
     "my_rating": 8.5,
     "added_at": "2026-11-05T10:41:40"
+  },
+  {
+    "tmdb_id": 56292,
+    "imdb_id": "tt1229238",
+    "title": "Mission: Impossible - Ghost Protocol",
+    "original_title": "Mission: Impossible - Ghost Protocol",
+    "year": 2011,
+    "release_date": "2011-12-07",
+    "runtime": 133,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Adventure"
+    ],
+    "director": [
+      "Brad Bird"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Paula Patton",
+      "Simon Pegg",
+      "Jeremy Renner",
+      "Michael Nyqvist",
+      "Vladimir Mashkov"
+    ],
+    "tagline": "No plan. No backup. No choice.",
+    "overview": "Ethan Hunt and his team are racing against time to track down a dangerous terrorist named Hendricks, who has gained access to Russian nuclear launch codes and is planning a strike on the United States. An attempt to stop him ends in an explosion causing severe destruction to the Kremlin and the IMF to be implicated in the bombing, forcing the President to disavow them. No longer being aided by the government, Ethan and his team chase Hendricks around the globe, although they might still be too late to stop a disaster.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.1,
+    "poster": "/eRZTGx7GsiKqPch96k27LK005ZL.jpg",
+    "watched_on": "2019-05-30",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T11:06:07"
+  },
+  {
+    "tmdb_id": 177677,
+    "imdb_id": "tt2381249",
+    "title": "Mission: Impossible - Rogue Nation",
+    "original_title": "Mission: Impossible - Rogue Nation",
+    "year": 2015,
+    "release_date": "2015-07-28",
+    "runtime": 131,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "director": [
+      "Christopher McQuarrie"
+    ],
+    "cast": [
+      "Tom Cruise",
+      "Jeremy Renner",
+      "Simon Pegg",
+      "Rebecca Ferguson",
+      "Ving Rhames",
+      "Sean Harris"
+    ],
+    "tagline": "Desperate times. Desperate measures.",
+    "overview": "Ethan and team take on their most impossible mission yet—eradicating 'The Syndicate', an International and highly-skilled rogue organization committed to destroying the IMF.",
+    "language": "en",
+    "countries": [
+      "United States of America",
+      "China"
+    ],
+    "tmdb_rating": 7.2,
+    "poster": "/fRJLXQBHK2wyznK5yZbO7vmsuVK.jpg",
+    "watched_on": "2019-05-26",
+    "my_rating": 9.5,
+    "added_at": "2026-11-05T11:05:35"
+  },
+  {
+    "tmdb_id": 1865,
+    "imdb_id": "tt1298650",
+    "title": "Pirates of the Caribbean: On Stranger Tides",
+    "original_title": "Pirates of the Caribbean: On Stranger Tides",
+    "year": 2011,
+    "release_date": "2011-05-15",
+    "runtime": 136,
+    "genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "director": [
+      "Rob Marshall"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Penélope Cruz",
+      "Geoffrey Rush",
+      "Ian McShane",
+      "Kevin McNally",
+      "Sam Claflin"
+    ],
+    "tagline": "Live forever or die trying.",
+    "overview": "When Jack crosses paths with a woman from his past, he's not sure if it's love...or if she's a ruthless con artist using him to find the fabled Fountain of Youth.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 6.6,
+    "poster": "/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",
+    "watched_on": "2019-04-15",
+    "my_rating": 7.0,
+    "added_at": "2026-11-05T11:02:12"
+  },
+  {
+    "tmdb_id": 285,
+    "imdb_id": "tt0449088",
+    "title": "Pirates of the Caribbean: At World's End",
+    "original_title": "Pirates of the Caribbean: At World's End",
+    "year": 2007,
+    "release_date": "2007-05-19",
+    "runtime": 169,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": [
+      "Gore Verbinski"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Jack Davenport",
+      "Bill Nighy"
+    ],
+    "tagline": "At the end of the world, the adventure begins.",
+    "overview": "After losing Captain Jack Sparrow to the locker of Davy Jones, Will Turner, Elizabeth Swann, and Captain Barbossa journey to the ends of the earth to rescue him. And as the East India Trading Company tightens its grip on the seas under Lord Cutler Beckett—now in control of Davy Jones—the fate of piracy hangs by a thread. Now, they must unite the pirate lords for one final stand. But as loyalties are tested and alliances shift, each must ultimately choose where they stand in the battle for freedom on the high seas.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.3,
+    "poster": "/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",
+    "watched_on": "2015-09-15",
+    "my_rating": 6.5,
+    "added_at": "2026-11-05T10:59:38"
+  },
+  {
+    "tmdb_id": 58,
+    "imdb_id": "tt0383574",
+    "title": "Pirates of the Caribbean: Dead Man's Chest",
+    "original_title": "Pirates of the Caribbean: Dead Man's Chest",
+    "year": 2006,
+    "release_date": "2006-07-06",
+    "runtime": 151,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": [
+      "Gore Verbinski"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Jack Davenport",
+      "Bill Nighy",
+      "Jonathan Pryce"
+    ],
+    "tagline": "Captain Jack is back!",
+    "overview": "Captain Jack Sparrow’s got a blood debt to pay: he owes his soul to the legendary Davy Jones, ghastly Ruler of the Ocean Depths. To escape eternal servitude aboard the Flying Dutchman, ever-crafty Jack must track down the still-beating heart of Jones. But he won’t do it alone: Will Turner and Elizabeth Swann are drawn back into another one of his perilous quests—assuming they can evade execution for aiding a pirate.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.4,
+    "poster": "/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",
+    "watched_on": "2015-08-30",
+    "my_rating": 6.7,
+    "added_at": "2026-11-05T10:59:12"
+  },
+  {
+    "tmdb_id": 22,
+    "imdb_id": "tt0325980",
+    "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "original_title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "year": 2003,
+    "release_date": "2003-07-09",
+    "runtime": 143,
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ],
+    "director": [
+      "Gore Verbinski"
+    ],
+    "cast": [
+      "Johnny Depp",
+      "Geoffrey Rush",
+      "Orlando Bloom",
+      "Keira Knightley",
+      "Jack Davenport",
+      "Jonathan Pryce"
+    ],
+    "tagline": "Prepare to be blown out of the water.",
+    "overview": "When wily pirate Captain Barbossa seizes Jack Sparrow’s beloved ship, the Black Pearl, and kidnaps the governor’s daughter, Elizabeth Swann, blacksmith Will Turner reluctantly teams up with the unpredictable pirate Jack to rescue her—only to uncover a terrifying curse that turns Barbossa’s crew into the undead.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.8,
+    "poster": "/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg",
+    "watched_on": "2015-08-27",
+    "my_rating": 6.5,
+    "added_at": "2026-11-05T10:58:40"
   }
 ]
