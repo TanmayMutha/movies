@@ -254,6 +254,40 @@
     "added_at": "2026-11-05T00:07:29"
   },
   {
+    "tmdb_id": 1402,
+    "imdb_id": "tt0454921",
+    "title": "The Pursuit of Happyness",
+    "original_title": "The Pursuit of Happyness",
+    "year": 2006,
+    "release_date": "2006-12-14",
+    "runtime": 117,
+    "genres": [
+      "Drama"
+    ],
+    "director": [
+      "Gabriele Muccino"
+    ],
+    "cast": [
+      "Will Smith",
+      "Jaden Smith",
+      "Thandiwe Newton",
+      "Brian Howe",
+      "James Karen",
+      "Dan Castellaneta"
+    ],
+    "tagline": "For his son, one man will reach for the impossible.",
+    "overview": "A struggling salesman takes custody of his son as he's poised to begin a life-changing professional career.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.9,
+    "poster": "/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+    "watched_on": "2025-12-25",
+    "my_rating": 7.0,
+    "added_at": "2026-11-05T10:53:52"
+  },
+  {
     "tmdb_id": 509,
     "imdb_id": "tt0125439",
     "title": "Notting Hill",
@@ -359,6 +393,76 @@
     "watched_on": "2025-05-10",
     "my_rating": 9.5,
     "added_at": "2026-11-05T00:05:03"
+  },
+  {
+    "tmdb_id": 10625,
+    "imdb_id": "tt0377092",
+    "title": "Mean Girls",
+    "original_title": "Mean Girls",
+    "year": 2004,
+    "release_date": "2004-04-30",
+    "runtime": 97,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": [
+      "Mark Waters"
+    ],
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Lizzy Caplan",
+      "Lacey Chabert",
+      "Amanda Seyfried",
+      "Daniel Franzese"
+    ],
+    "tagline": "Watch your back.",
+    "overview": "Cady Heron is a hit with The Plastics, the A-list girl clique at her new school, until she makes the mistake of falling for Aaron Samuels, the ex-boyfriend of alpha Plastic Regina George.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.2,
+    "poster": "/2ZkuQXvVhh45uSvkBej4S7Ix1NJ.jpg",
+    "watched_on": "2024-05-10",
+    "my_rating": 7.0,
+    "added_at": "2026-11-05T10:55:29"
+  },
+  {
+    "tmdb_id": 9655,
+    "imdb_id": "tt0454945",
+    "title": "She's the Man",
+    "original_title": "She's the Man",
+    "year": 2006,
+    "release_date": "2006-03-17",
+    "runtime": 105,
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "director": [
+      "Andy Fickman"
+    ],
+    "cast": [
+      "Amanda Bynes",
+      "Channing Tatum",
+      "Laura Ramsey",
+      "Vinnie Jones",
+      "David Cross",
+      "Julie Hagerty"
+    ],
+    "tagline": "Everybody has a secret...",
+    "overview": "Viola Hastings is in a real jam. Complications threaten her scheme to pose as her twin brother, Sebastian, and take his place at a new boarding school. She falls in love with her handsome roommate, Duke, who loves beautiful Olivia, who has fallen for Sebastian! As if that were not enough, Viola's twin returns from London ahead of schedule but has no idea that his sister has already replaced him on campus.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 6.8,
+    "poster": "/8exPgs8jLGh26BGSrAyHa9MeFyO.jpg",
+    "watched_on": "2024-05-10",
+    "my_rating": 6.0,
+    "added_at": "2026-11-05T10:54:57"
   },
   {
     "tmdb_id": 12445,
@@ -793,7 +897,7 @@
     ],
     "tmdb_rating": 8.5,
     "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
-    "watched_on": "2022-10-5",
+    "watched_on": "2022-10-05",
     "my_rating": 8.5,
     "added_at": "2026-11-05T10:41:40"
   }
