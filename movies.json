@@ -72,6 +72,80 @@
     "added_at": "2026-11-04T23:58:06"
   },
   {
+    "tmdb_id": 49026,
+    "imdb_id": "tt1345836",
+    "title": "The Dark Knight Rises",
+    "original_title": "The Dark Knight Rises",
+    "year": 2012,
+    "release_date": "2012-07-17",
+    "runtime": 165,
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Gary Oldman",
+      "Tom Hardy",
+      "Joseph Gordon-Levitt",
+      "Anne Hathaway",
+      "Marion Cotillard"
+    ],
+    "tagline": "The legend ends.",
+    "overview": "Following the death of District Attorney Harvey Dent, Batman assumes responsibility for Dent's crimes to protect the late attorney's reputation and is subsequently hunted by the Gotham City Police Department. Eight years later, Batman encounters the mysterious Selina Kyle and the villainous Bane, a new terrorist leader who overwhelms Gotham's finest. The Dark Knight resurfaces to protect a city that has branded him an enemy.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.8,
+    "poster": "/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+    "watched_on": "2026-04-14",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:44:11"
+  },
+  {
+    "tmdb_id": 155,
+    "imdb_id": "tt0468569",
+    "title": "The Dark Knight",
+    "original_title": "The Dark Knight",
+    "year": 2008,
+    "release_date": "2008-07-16",
+    "runtime": 152,
+    "genres": [
+      "Action",
+      "Thriller",
+      "Crime"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Michael Caine",
+      "Maggie Gyllenhaal",
+      "Gary Oldman"
+    ],
+    "tagline": "Welcome to a world without rules.",
+    "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.5,
+    "poster": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+    "watched_on": "2026-04-12",
+    "my_rating": 7.5,
+    "added_at": "2026-11-05T10:43:50"
+  },
+  {
     "tmdb_id": 550,
     "imdb_id": "tt0137523",
     "title": "Fight Club",
@@ -106,6 +180,43 @@
     "watched_on": "2026-04-11",
     "my_rating": 8.0,
     "added_at": "2026-11-05T00:03:39"
+  },
+  {
+    "tmdb_id": 272,
+    "imdb_id": "tt0372784",
+    "title": "Batman Begins",
+    "original_title": "Batman Begins",
+    "year": 2005,
+    "release_date": "2005-06-10",
+    "runtime": 140,
+    "genres": [
+      "Drama",
+      "Crime",
+      "Action"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Christian Bale",
+      "Michael Caine",
+      "Liam Neeson",
+      "Katie Holmes",
+      "Gary Oldman",
+      "Cillian Murphy"
+    ],
+    "tagline": "Evil fears the knight.",
+    "overview": "Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.7,
+    "poster": "/sPX89Td70IDDjVr85jdSBb4rWGr.jpg",
+    "watched_on": "2026-04-10",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:43:08"
   },
   {
     "tmdb_id": 640,
@@ -248,5 +359,442 @@
     "watched_on": "2025-05-10",
     "my_rating": 9.5,
     "added_at": "2026-11-05T00:05:03"
+  },
+  {
+    "tmdb_id": 12445,
+    "imdb_id": "tt1201607",
+    "title": "Harry Potter and the Deathly Hallows: Part 2",
+    "original_title": "Harry Potter and the Deathly Hallows: Part 2",
+    "year": 2011,
+    "release_date": "2011-07-12",
+    "runtime": 130,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "David Yates"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint",
+      "Ralph Fiennes",
+      "Alan Rickman",
+      "Michael Gambon"
+    ],
+    "tagline": "It all ends.",
+    "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.1,
+    "poster": "/c54HpQmuwXjHq2C9wmoACjxoom3.jpg",
+    "watched_on": "2023-12-16",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:50:39"
+  },
+  {
+    "tmdb_id": 12444,
+    "imdb_id": "tt0926084",
+    "title": "Harry Potter and the Deathly Hallows: Part 1",
+    "original_title": "Harry Potter and the Deathly Hallows: Part 1",
+    "year": 2010,
+    "release_date": "2010-11-17",
+    "runtime": 146,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "David Yates"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Emma Watson",
+      "Rupert Grint",
+      "Toby Jones",
+      "Helena Bonham Carter",
+      "Alan Rickman"
+    ],
+    "tagline": "Nowhere is safe.",
+    "overview": "Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.7,
+    "poster": "/iGoXIpQb7Pot00EEdwpwPajheZ5.jpg",
+    "watched_on": "2023-12-15",
+    "my_rating": 7.5,
+    "added_at": "2026-11-05T10:50:19"
+  },
+  {
+    "tmdb_id": 767,
+    "imdb_id": "tt0417741",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "original_title": "Harry Potter and the Half-Blood Prince",
+    "year": 2009,
+    "release_date": "2009-07-15",
+    "runtime": 153,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "David Yates"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Jim Broadbent",
+      "Michael Gambon",
+      "Tom Felton"
+    ],
+    "tagline": "Dark secrets revealed.",
+    "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.7,
+    "poster": "/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+    "watched_on": "2023-12-05",
+    "my_rating": 8.5,
+    "added_at": "2026-11-05T10:49:19"
+  },
+  {
+    "tmdb_id": 675,
+    "imdb_id": "tt0373889",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "original_title": "Harry Potter and the Order of the Phoenix",
+    "year": 2007,
+    "release_date": "2007-07-08",
+    "runtime": 138,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "David Yates"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Imelda Staunton",
+      "Helena Bonham Carter",
+      "Robbie Coltrane"
+    ],
+    "tagline": "The rebellion begins.",
+    "overview": "Returning for his fifth year at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of motivated students to defend themselves against the Dark Arts.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.7,
+    "poster": "/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg",
+    "watched_on": "2023-12-01",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:48:42"
+  },
+  {
+    "tmdb_id": 674,
+    "imdb_id": "tt0330373",
+    "title": "Harry Potter and the Goblet of Fire",
+    "original_title": "Harry Potter and the Goblet of Fire",
+    "year": 2005,
+    "release_date": "2005-11-16",
+    "runtime": 157,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "Mike Newell"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Brendan Gleeson",
+      "Michael Gambon",
+      "Robert Pattinson"
+    ],
+    "tagline": "Dark and difficult times lie ahead.",
+    "overview": "After his name emerges from the Goblet of Fire, Harry Potter becomes a competitor in a grueling battle for glory among three wizarding schools in the Triwizard Tournament. But if Harry never submitted his name for the Tournament, then who did? Nevertheless, Harry must confront a deadly dragon, fierce water monsters, and an enchanted maze—only to find himself in the cruel grasp of He Who Must Not Be Named.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.8,
+    "poster": "/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+    "watched_on": "2023-10-18",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:47:59"
+  },
+  {
+    "tmdb_id": 673,
+    "imdb_id": "tt0304141",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "original_title": "Harry Potter and the Prisoner of Azkaban",
+    "year": 2004,
+    "release_date": "2004-05-31",
+    "runtime": 141,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "Alfonso Cuarón"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Robbie Coltrane",
+      "Michael Gambon",
+      "Gary Oldman"
+    ],
+    "tagline": "Something wicked this way comes.",
+    "overview": "Year three at Hogwarts means new fun and new challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.0,
+    "poster": "/aWxwnYoe8p2d2fcxOqtvAtJ72Rw.jpg",
+    "watched_on": "2023-10-16",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:47:37"
+  },
+  {
+    "tmdb_id": 672,
+    "imdb_id": "tt0295297",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "original_title": "Harry Potter and the Chamber of Secrets",
+    "year": 2002,
+    "release_date": "2002-11-13",
+    "runtime": 161,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "Chris Columbus"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Kenneth Branagh",
+      "Toby Jones",
+      "Robbie Coltrane"
+    ],
+    "tagline": "Something evil has returned to Hogwarts!",
+    "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione's magical abilities and courage.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America",
+      "Germany"
+    ],
+    "tmdb_rating": 7.7,
+    "poster": "/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+    "watched_on": "2023-10-04",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:47:05"
+  },
+  {
+    "tmdb_id": 671,
+    "imdb_id": "tt0241527",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "original_title": "Harry Potter and the Philosopher's Stone",
+    "year": 2001,
+    "release_date": "2001-11-16",
+    "runtime": 152,
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "director": [
+      "Chris Columbus"
+    ],
+    "cast": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Emma Watson",
+      "Richard Harris",
+      "Tom Felton",
+      "Alan Rickman"
+    ],
+    "tagline": "Let the magic begin.",
+    "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 7.9,
+    "poster": "/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg",
+    "watched_on": "2023-10-02",
+    "my_rating": 8.0,
+    "added_at": "2026-11-05T10:46:36"
+  },
+  {
+    "tmdb_id": 27205,
+    "imdb_id": "tt1375666",
+    "title": "Inception",
+    "original_title": "Inception",
+    "year": 2010,
+    "release_date": "2010-07-15",
+    "runtime": 148,
+    "genres": [
+      "Action",
+      "Science Fiction",
+      "Crime"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Ken Watanabe",
+      "Tom Hardy",
+      "Elliot Page",
+      "Dileep Rao"
+    ],
+    "tagline": "Your mind is the scene of the crime.",
+    "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.4,
+    "poster": "/xlaY2zyzMfkhk0HSC5VUwzoZPU1.jpg",
+    "watched_on": "2023-08-4",
+    "my_rating": 9.0,
+    "added_at": "2026-11-05T10:41:02"
+  },
+  {
+    "tmdb_id": 1124,
+    "imdb_id": "tt0482571",
+    "title": "The Prestige",
+    "original_title": "The Prestige",
+    "year": 2006,
+    "release_date": "2006-10-19",
+    "runtime": 131,
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Science Fiction"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Hugh Jackman",
+      "Christian Bale",
+      "Michael Caine",
+      "Piper Perabo",
+      "Rebecca Hall",
+      "Scarlett Johansson"
+    ],
+    "tagline": "Are you watching closely?",
+    "overview": "A mysterious story of two magicians whose intense rivalry leads them on a life-long battle for supremacy -- full of obsession, deceit and jealousy with dangerous and deadly consequences.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.2,
+    "poster": "/Ag2B2KHKQPukjH7WutmgnnSNurZ.jpg",
+    "watched_on": "2023-08-10",
+    "my_rating": 8.7,
+    "added_at": "2026-11-05T10:42:10"
+  },
+  {
+    "tmdb_id": 872585,
+    "imdb_id": "tt15398776",
+    "title": "Oppenheimer",
+    "original_title": "Oppenheimer",
+    "year": 2023,
+    "release_date": "2023-07-19",
+    "runtime": 181,
+    "genres": [
+      "Drama",
+      "History",
+      "War"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon",
+      "Robert Downey Jr.",
+      "Florence Pugh",
+      "Josh Hartnett"
+    ],
+    "tagline": "The world forever changes.",
+    "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.0,
+    "poster": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    "watched_on": "2023-07-26",
+    "my_rating": 9.0,
+    "added_at": "2026-11-05T10:45:41"
+  },
+  {
+    "tmdb_id": 157336,
+    "imdb_id": "tt0816692",
+    "title": "Interstellar",
+    "original_title": "Interstellar",
+    "year": 2014,
+    "release_date": "2014-11-04",
+    "runtime": 169,
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Michael Caine",
+      "Jessica Chastain",
+      "Casey Affleck",
+      "Wes Bentley"
+    ],
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+    "language": "en",
+    "countries": [
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.5,
+    "poster": "/yQvGrMoipbRoddT0ZR8tPoR7NfX.jpg",
+    "watched_on": "2022-10-5",
+    "my_rating": 8.5,
+    "added_at": "2026-11-05T10:41:40"
   }
 ]
