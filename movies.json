@@ -1,5 +1,41 @@
 [
   {
+    "tmdb_id": 807,
+    "imdb_id": "tt0114369",
+    "title": "Se7en",
+    "original_title": "Se7en",
+    "year": 1995,
+    "release_date": "1995-09-22",
+    "runtime": 127,
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "director": [
+      "David Fincher"
+    ],
+    "cast": [
+      "Morgan Freeman",
+      "Brad Pitt",
+      "Gwyneth Paltrow",
+      "John Cassini",
+      "Peter Crombie",
+      "Reg E. Cathey"
+    ],
+    "tagline": "Gluttony. Greed. Sloth. Envy. Wrath. Pride. Lust.",
+    "overview": "Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \"seven deadly sins\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Somerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.4,
+    "poster": "/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+    "watched_on": "2026-11-06",
+    "my_rating": 8.7,
+    "added_at": "2026-11-06T19:42:24"
+  },
+  {
     "tmdb_id": 389,
     "imdb_id": "tt0050083",
     "title": "12 Angry Men",
