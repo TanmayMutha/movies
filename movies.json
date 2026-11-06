@@ -1,5 +1,41 @@
 [
   {
+    "tmdb_id": 43347,
+    "imdb_id": "tt0758752",
+    "title": "Love & Other Drugs",
+    "original_title": "Love & Other Drugs",
+    "year": 2010,
+    "release_date": "2010-11-22",
+    "runtime": 112,
+    "genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "director": [
+      "Edward Zwick"
+    ],
+    "cast": [
+      "Jake Gyllenhaal",
+      "Anne Hathaway",
+      "Oliver Platt",
+      "Hank Azaria",
+      "Josh Gad",
+      "Gabriel Macht"
+    ],
+    "tagline": "Addicted to one-night stands or dependent on one another?",
+    "overview": "Maggie is an alluring free spirit who won't let anyone – or anything – tie her down. But she meets her match in Jamie, whose relentless and nearly infallible charm serves him well with the ladies and the cutthroat world of pharmaceutical sales. Maggie and Jamie's evolving relationship takes them both by surprise, as they find themselves under the influence of the ultimate drug: love.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.0,
+    "poster": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+    "watched_on": "2026-11-07",
+    "my_rating": 6.0,
+    "added_at": "2026-11-07T00:30:51"
+  },
+  {
     "tmdb_id": 807,
     "imdb_id": "tt0114369",
     "title": "Se7en",
