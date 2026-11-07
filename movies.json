@@ -1300,6 +1300,38 @@
     "added_at": "2026-11-05T10:41:40"
   },
   {
+    "tmdb_id": 572931,
+    "imdb_id": "tt9310280",
+    "title": "Mulshi Pattern",
+    "original_title": "मुळशी पॅटर्न",
+    "year": 2018,
+    "release_date": "2018-11-23",
+    "runtime": 155,
+    "genres": [
+      "Crime"
+    ],
+    "director": [
+      "Pravin Tarde"
+    ],
+    "cast": [
+      "Om Bhutkar",
+      "Kshitish Date",
+      "Mohan Joshi",
+      "Upendra Limaye",
+      "Savita Malpekar",
+      "Dipti Dhotre"
+    ],
+    "tagline": "",
+    "overview": "A stark portrayal of the hardships faced by farmers, Mulshi Pattern tackles some of the raging issues of our times. The film lays bare the deep flaws of the system which turns the farmer into a criminal and a social outcast.",
+    "language": "mr",
+    "countries": [],
+    "tmdb_rating": 6.8,
+    "poster": "/rIpi5rI94kizH7hIe7oPkUBRkbJ.jpg",
+    "watched_on": "2021-01-01",
+    "my_rating": 8.0,
+    "added_at": "2026-11-07T18:18:55"
+  },
+  {
     "tmdb_id": 56292,
     "imdb_id": "tt1229238",
     "title": "Mission: Impossible - Ghost Protocol",
