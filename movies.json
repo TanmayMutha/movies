@@ -1,42 +1,5 @@
 [
   {
-    "tmdb_id": 338065,
-    "imdb_id": "tt4110568",
-    "title": "Dil Dhadakne Do",
-    "original_title": "दिल धड़कने दो",
-    "year": 2015,
-    "release_date": "2015-06-04",
-    "runtime": 170,
-    "genres": [
-      "Drama",
-      "Family",
-      "Romance"
-    ],
-    "director": [
-      "Zoya Akhtar"
-    ],
-    "cast": [
-      "Ranveer Singh",
-      "Anil Kapoor",
-      "Shefali Shah",
-      "Priyanka Chopra Jonas",
-      "Rahul Bose",
-      "Anushka Sharma"
-    ],
-    "tagline": "",
-    "overview": "On a cruise to celebrate their parents' 30th wedding anniversary, a brother and sister deal with the impact of family considerations on their romantic lives.",
-    "language": "hi",
-    "countries": [
-      "India",
-      "Spain"
-    ],
-    "tmdb_rating": 6.9,
-    "poster": "/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg",
-    "watched_on": "2026-08-01",
-    "my_rating": 7.0,
-    "added_at": "2026-11-07T18:55:55"
-  },
-  {
     "tmdb_id": 43347,
     "imdb_id": "tt0758752",
     "title": "Love & Other Drugs",
@@ -179,6 +142,43 @@
     "watched_on": "2026-10-26",
     "my_rating": 7.0,
     "added_at": "2026-11-04T23:58:06"
+  },
+  {
+    "tmdb_id": 338065,
+    "imdb_id": "tt4110568",
+    "title": "Dil Dhadakne Do",
+    "original_title": "दिल धड़कने दो",
+    "year": 2015,
+    "release_date": "2015-06-04",
+    "runtime": 170,
+    "genres": [
+      "Drama",
+      "Family",
+      "Romance"
+    ],
+    "director": [
+      "Zoya Akhtar"
+    ],
+    "cast": [
+      "Ranveer Singh",
+      "Anil Kapoor",
+      "Shefali Shah",
+      "Priyanka Chopra Jonas",
+      "Rahul Bose",
+      "Anushka Sharma"
+    ],
+    "tagline": "",
+    "overview": "On a cruise to celebrate their parents' 30th wedding anniversary, a brother and sister deal with the impact of family considerations on their romantic lives.",
+    "language": "hi",
+    "countries": [
+      "India",
+      "Spain"
+    ],
+    "tmdb_rating": 6.9,
+    "poster": "/AqFX6282JM2ollS4XTFp6t6Dwa9.jpg",
+    "watched_on": "2026-08-01",
+    "my_rating": 7.0,
+    "added_at": "2026-11-07T18:55:55"
   },
   {
     "tmdb_id": 49026,
@@ -361,6 +361,40 @@
     "watched_on": "2026-02-28",
     "my_rating": 5.5,
     "added_at": "2026-11-05T11:02:57"
+  },
+  {
+    "tmdb_id": 207,
+    "imdb_id": "tt0097165",
+    "title": "Dead Poets Society",
+    "original_title": "Dead Poets Society",
+    "year": 1989,
+    "release_date": "1989-06-02",
+    "runtime": 129,
+    "genres": [
+      "Drama"
+    ],
+    "director": [
+      "Peter Weir"
+    ],
+    "cast": [
+      "Robin Williams",
+      "Robert Sean Leonard",
+      "Ethan Hawke",
+      "Josh Charles",
+      "Gale Hansen",
+      "Dylan Kussman"
+    ],
+    "tagline": "He was their inspiration. He made their lives extraordinary.",
+    "overview": "At an elite, old-fashioned boarding school in New England, a passionate English teacher inspires his students to rebel against convention and seize the potential of every day, courting the disdain of the stern headmaster.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.3,
+    "poster": "/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg",
+    "watched_on": "2026-01-10",
+    "my_rating": 7.0,
+    "added_at": "2026-11-08T15:52:47"
   },
   {
     "tmdb_id": 640,
