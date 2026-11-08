@@ -1,5 +1,39 @@
 [
   {
+    "tmdb_id": 489,
+    "imdb_id": "tt0119217",
+    "title": "Good Will Hunting",
+    "original_title": "Good Will Hunting",
+    "year": 1997,
+    "release_date": "1997-12-05",
+    "runtime": 127,
+    "genres": [
+      "Drama"
+    ],
+    "director": [
+      "Gus Van Sant"
+    ],
+    "cast": [
+      "Matt Damon",
+      "Robin Williams",
+      "Ben Affleck",
+      "Stellan Skarsgård",
+      "Minnie Driver",
+      "Casey Affleck"
+    ],
+    "tagline": "Some people can never believe in themselves, until someone believes in them.",
+    "overview": "Will Hunting is a headstrong, working-class genius who is failing the lessons of life. After one too many run-ins with the law, Will's last chance is a psychology professor, who might be the only man who can reach him.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 8.2,
+    "poster": "/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg",
+    "watched_on": "2026-11-08",
+    "my_rating": 6.5,
+    "added_at": "2026-11-09T00:39:09"
+  },
+  {
     "tmdb_id": 43347,
     "imdb_id": "tt0758752",
     "title": "Love & Other Drugs",
