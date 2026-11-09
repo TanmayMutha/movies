@@ -1,5 +1,42 @@
 [
   {
+    "tmdb_id": 4348,
+    "imdb_id": "tt0414387",
+    "title": "Pride & Prejudice",
+    "original_title": "Pride & Prejudice",
+    "year": 2005,
+    "release_date": "2005-09-16",
+    "runtime": 128,
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "director": [
+      "Joe Wright"
+    ],
+    "cast": [
+      "Keira Knightley",
+      "Matthew Macfadyen",
+      "Brenda Blethyn",
+      "Rosamund Pike",
+      "Carey Mulligan",
+      "Jena Malone"
+    ],
+    "tagline": "Sometimes the last person on earth you want to be with is the one person you can't be without.",
+    "overview": "A story of love and life among the landed English gentry during the Georgian era. Mr. Bennet is a gentleman living in Hertfordshire with his overbearing wife and five daughters, but if he dies their house will be inherited by a distant cousin whom they have never met, so the family's future happiness and security is dependent on the daughters making good marriages.",
+    "language": "en",
+    "countries": [
+      "France",
+      "United Kingdom",
+      "United States of America"
+    ],
+    "tmdb_rating": 8.1,
+    "poster": "/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg",
+    "watched_on": "2026-11-09",
+    "my_rating": 7.0,
+    "added_at": "2026-11-09T13:48:54"
+  },
+  {
     "tmdb_id": 489,
     "imdb_id": "tt0119217",
     "title": "Good Will Hunting",
