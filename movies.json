@@ -537,6 +537,41 @@
     "added_at": "2026-11-05T10:53:52"
   },
   {
+    "tmdb_id": 350,
+    "imdb_id": "tt0458352",
+    "title": "The Devil Wears Prada",
+    "original_title": "The Devil Wears Prada",
+    "year": 2006,
+    "release_date": "2006-06-29",
+    "runtime": 109,
+    "genres": [
+      "Drama",
+      "Comedy"
+    ],
+    "director": [
+      "David Frankel"
+    ],
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt",
+      "Stanley Tucci",
+      "Simon Baker",
+      "Adrian Grenier"
+    ],
+    "tagline": "Meet Andy Sachs. A million girls would kill to have her job. She's not one of them.",
+    "overview": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
+    "language": "en",
+    "countries": [
+      "United States of America"
+    ],
+    "tmdb_rating": 7.4,
+    "poster": "/8912AsVuS7Sj915apArUFbv6F9L.jpg",
+    "watched_on": "2025-12-17",
+    "my_rating": 7.0,
+    "added_at": "2026-11-14T14:12:42"
+  },
+  {
     "tmdb_id": 9919,
     "imdb_id": "tt0251127",
     "title": "How to Lose a Guy in 10 Days",
